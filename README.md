@@ -3,6 +3,18 @@
 
 ![Gambar 1](screenshoot/s1.JPG)
 
+### Program ini adalah program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
+
+#### Entry Input Pada Program Ini Adalah : 
+<ul>
+   <li>Fungsi Tambah()</b> </li>
+   <li>Fungsi tapilkan()</b></li>
+   <li>Fungsi NILAI Tugas</b></li>
+   <li>Fungsi Nilai Uas</b></li>
+   <li>Fungsi Nilai Akhir</b></li>
+</ul>
+<hr/>
+
 OK DI,PROGRAM  package dan modul dengan struktur'<P>'
 
 A. MODEL'<p>'
@@ -12,15 +24,27 @@ A. MODEL'<p>'
 ![Gambar 4](screenshoot/s4.JPG)
 ![Gambar 5](screenshoot/s5.JPG)
 
+Program di atas  adalah program untuk: tambah_data, ubah_data, hapus_data, dan 
+cari_data'<p>'
+
 B. VIEW'<p>'
+
 1. input_nilai.py'<p>'
 ![Gambar 6](screenshoot/s6.JPG)
 ![Gambar 7](screenshoot/s7.JPG)
+
+Program di atas adalah program untuk:input_data yang meminta pengguna memasukkan data'<p>'
+
 2. view_nilai.py'<p>'
 ![Gambar 8](screenshoot/s8.JPG)
+
+Program di atas adalah program untuk: cetak_daftar_nilai, cetak_hasil_pencarian'<p>'
+
 3. main.py'<p>'
 ![Gambar 9](screenshoot/s9.JPG)
 ![Gambar 10](screenshoot/s10.JPG)
+
+Program di atas adalah program utama berisi (menu pilihan yang memanggil semua menu yang ada)'<p>'
 
 APA BILA PROGRAM DI ATAS DI RUN HASILNYA AKAN SEPERTI DI BAWAH!'<P>'
 ![Gambar 11](screenshoot/s11.JPG)

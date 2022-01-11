@@ -1,11 +1,13 @@
 # Ujian-Akhir-Semester
 ## M. AKMAL AL ABDILAH [312110034]
+### KELAS : TI.21.A.1
+#### BAHASA PEMOGRAMAN
 
 ![Gambar 1](screenshoot/s1.JPG)
 
-### Program ini adalah program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
+##### Program ini adalah program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
-#### Entry Input Pada Program Ini Adalah : 
+###### Entry Input Pada Program Ini Adalah : 
 <ul>
    <li>Fungsi Tambah()</b> </li>
    <li>Fungsi tapilkan()</b></li>
@@ -15,7 +17,7 @@
 </ul>
 <hr/>
 
-OK DI,PROGRAM  package dan modul dengan struktur'<P>'
+OK DI BAWAH INI ADALAH,PROGRAM  package dan modul dengan struktur'<P>'
 
 A. MODEL'<p>'
 1. daftar_nilai.py'<p>'

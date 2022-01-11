@@ -46,7 +46,7 @@ Program di atas adalah program untuk: cetak_daftar_nilai, cetak_hasil_pencarian'
 
 Program di atas adalah program utama berisi (menu pilihan yang memanggil semua menu yang ada)'<p>'
 
-APA BILA PROGRAM DI ATAS DI RUN HASILNYA AKAN SEPERTI DI BAWAH!'<P>'
+APA BILA SEMUA PROGRAM DI ATAS DISATUKAN KEDALAM SATU PACKAGE  DAN DI RUN HASILNYA AKAN SEPERTI DI BAWAH!'<P>'
 ![Gambar 11](screenshoot/s11.JPG)
 ![Gambar 12](screenshoot/s12.JPG)
 ![Gambar 13](screenshoot/s13.JPG)
@@ -54,5 +54,7 @@ APA BILA PROGRAM DI ATAS DI RUN HASILNYA AKAN SEPERTI DI BAWAH!'<P>'
 ![Gambar 15](screenshoot/s15.JPG)
 ![Gambar 16](screenshoot/s16.JPG)
 ![Gambar 17](screenshoot/s17.JPG)
+
+SEMOGA DARI PROGRAM DI ATAS SIAPAPUN YANG MENEMUKA AKUN INI DAN MEMBACANYA SAYA BERHARAP DAPAT MEMANTU MEYELESAIKAN PERSOALAN PROGRAM PACKAGE'<P>'
  
 Sekian Tugas Uas Ini saya kerjakan dengan sebenar_benarnya dengan harapan bisa mendapatkan nilai yang memuaskan Sekian Terima kasih.'<p>'

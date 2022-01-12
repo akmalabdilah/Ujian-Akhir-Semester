@@ -13,6 +13,7 @@
    <li>Fungsi Tambah()</b></li>
    <li>Fungsi Hapus()</b> </li>
    <li>Fungsi Ubah()</b></li>
+   <li>Fungsi Cari()</b> </li>
    <li>Fungsi NILAI Tugas</b></li>
    <li>Fungsi Nilai Uas</b></li>
    <li>Fungsi Nilai Akhir</b></li>

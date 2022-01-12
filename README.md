@@ -14,9 +14,9 @@
    <li>Fungsi Hapus()</b> </li>
    <li>Fungsi Ubah()</b></li>
    <li>Fungsi Cari()</b> </li>
-   <li>Fungsi NILAI Tugas</b></li>
-   <li>Fungsi Nilai Uas</b></li>
-   <li>Fungsi Nilai Akhir</b></li>
+   <li>Fungsi Cetak NILAI Tugas</b></li>
+   <li>Fungsi Cetak Nilai Uas</b></li>
+   <li>Fungsi Cetak Nilai Akhir</b></li>
 </ul>
 <hr/>
 
